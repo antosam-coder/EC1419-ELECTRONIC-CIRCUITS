@@ -17,6 +17,5 @@
 
 <img width="697" height="292" alt="image" src="https://github.com/user-attachments/assets/931385be-3c78-4682-a10c-1924b3faa1d4" />
 
-## Result
 <img width="1419" height="797" alt="WhatsApp Image 2026-06-01 at 10 18 46 AM" src="https://github.com/user-attachments/assets/d252d05d-27f5-4c12-9b25-d5c483c02761" />
 
